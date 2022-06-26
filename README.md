@@ -1,4 +1,4 @@
-<h1 align="center">How you doin? I'm Lucas, welcome! Lucas</h1>
+<h1 align="center">How you doin? I'm Lucas, welcome!</h1>
 <h3 align="center">Seeking to improve my skills a little at a time!</h3>
 
 <br>
