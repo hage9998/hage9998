@@ -20,7 +20,7 @@
 
 
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hage9998&show_icons=true&locale=en&count_private=true" alt="hage9998" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hage9998&show_icons=true&locale=en&count_private=true" alt="hage9998" /></p> -->
 
 <br>
 <h3 align="center">Connect with me:</h3>
