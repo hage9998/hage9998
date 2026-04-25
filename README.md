@@ -17,7 +17,7 @@
 
 ### About me
 
-Software Engineer with 4+ years of experience building scalable backend systems and cloud infrastructure. I've worked across fintech, agritech, and SaaS products — designing event-driven architectures, AI-powered pipelines, and microservices on AWS. I care about well-structured code, good observability, and systems that don't fall apart in production.
+Software Engineer with 5+ years of experience building scalable backend systems and cloud infrastructure. I've worked across fintech, agritech, and SaaS products — designing event-driven architectures, AI-powered pipelines, and microservices on AWS. I care about well-structured code, good observability, and systems that don't fall apart in production.
 
 ---
 
