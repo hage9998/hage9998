@@ -68,7 +68,7 @@ Software Engineer with 5+ years of experience building scalable backend systems 
 
 ### 🚀 Highlights
 
-- **Microservices migration** — Led migration from AWS Lambda monolith to Kubernetes microservices at Flora Energia, improving scalability and deployment independence.
+- **Microservices migration** — Led migration from AWS Lambda microservices to Kubernetes microservices at Flora Energia, improving scalability and deployment independence.
 - **AI pipeline** — Built a serverless AI document processing pipeline using AWS Step Functions, Bedrock (RAG), and Tesseract OCR at Colab.
 - **Event-driven architecture** — Implemented RabbitMQ (Amazon MQ) + SQS messaging for service decoupling and async communication.
 - **FinTech impact** — Delivered a financial integration at Terramagna that reduced the finance cycle by 3–5 days.
